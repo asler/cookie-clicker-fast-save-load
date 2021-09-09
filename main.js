@@ -14,8 +14,12 @@ Game.registerMod("sample mod",{
   },
   save:function(){
     //use this to store persistent data associated with your mod
+    return ''
   },
   load:function(str){
     //do stuff with the string data you saved previously
+    document.addEventListener('keyup',(e)=>{
+      console.log(e)
+    })
   },
 });
