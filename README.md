@@ -1,5 +1,6 @@
 # cookie-clicker-fast-save-load
 Hotkey for fast load game save.
+
 Works on steam version too.
 
 Load with hotkey `L` last saved game by pressing default game hotkey `Ctrl + S`
