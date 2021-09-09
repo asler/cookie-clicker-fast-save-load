@@ -1,4 +1,6 @@
-# cookie-clicker-fast-save-load
+# Cookie Clicker fast load hotkey mod
+
+
 Hotkey for fast load game save.
 
 Works on steam version too.
